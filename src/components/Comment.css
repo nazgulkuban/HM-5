@@ -1,0 +1,18 @@
+
+
+.Comment {
+  background-color: aqua;
+}
+
+/* .Comment-second {
+  background-color: bisque;
+} */
+
+.comment-first {
+  background-color: rgb(30, 154, 154);
+}
+.comment-block{
+  background-color: orangered;
+  width: 160px;
+}
+

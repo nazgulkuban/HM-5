@@ -1,0 +1,15 @@
+.userInfo{
+    border-radius: 30px;
+    width: 130px;
+    background-color: orangered;
+    align-items: center;
+}
+.userInfo img {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+.userInfo-name{
+    width: 100px;
+    margin: 0 auto;
+}
